@@ -1,9 +1,6 @@
 # Research Portfolio — Kayla Campbell
 
-Mathematics student at Spelman College with research experience in urban 
-infrastructure modeling and housing equity analysis. This repository contains 
-two research projects applying quantitative and geospatial methods to 
-real-world urban planning and investment questions.
+Mathematics student at Spelman College specializing in quantitative modeling, geospatial analysis, and urban infrastructure systems. This portfolio highlights applied research in transportation accessibility and housing market dynamics, with a focus on infrastructure equity, spatial efficiency, and data-driven decision support for urban and real estate systems.
 
 ---
 
