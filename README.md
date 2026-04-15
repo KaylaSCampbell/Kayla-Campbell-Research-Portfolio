@@ -16,7 +16,7 @@ connectivity in Atlanta's West End neighborhood. Research produced actionable
 recommendations for transit integration, pedestrian pathway improvements, 
 and equitable service distribution to support sustainable urban development.
 
-[View Poster](Urban-Infrastructure-15min-City-Spelman.pdf)
+[View Poster](Urban_Infrastructure_15-Min-City-Spelman.pdf)
 
 ---
 
@@ -30,7 +30,7 @@ relationships between race, poverty, rent burden, and residential segregation.
 Research was funded by Capital One and conducted through the UVA Data Justice 
 Academy.
 
-[View Poster](Housing-Justice-Atlas-UVA.pdf)
+[View Poster](Housing_Justice_Atlas-UVA.pdf)
 
 ---
 
